@@ -1,6 +1,5 @@
 # Hello, I'm Devansh
 <a href="https://www.linkedin.com/in/reachmedevansh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3993562" style='border:none;'></iframe>
 
 As a dedicated Computer Engineering student with a passion for cybersecurity and game hacking, I am driven by the ever-evolving challenges of the digital realm. Currently immersed in honing my skills and knowledge, I am eagerly working towards certifications to augment my expertise.
 
