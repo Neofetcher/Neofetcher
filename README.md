@@ -5,10 +5,6 @@ As a Computer Engineering graduate with a strong focus on cybersecurity and a ke
 
 I’m open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
-I am always open to collaboration, knowledge exchange, and opportunities that foster growth in the cybersecurity field.
-
-Let's connect and explore the possibilities of collaboration and knowledge sharing.
-
 ## Objective
 
 Motivated and technically proficient computer engineering graduate with a strong interest in cybersecurity. Eager to leverage my analytical skills and technical foundation to contribute to the protection of digital assets and infrastructure. Actively seeking an entry-level role in cybersecurity, with a particular interest in threat detection, incident response, and security operations.
