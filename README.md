@@ -14,7 +14,7 @@ Motivated and technically proficient computer engineering graduate with a strong
   - Tools: Wireshark, Nmap, Burp Suite, Metasploit  
   - Platforms: Linux, Windows  
 
-## 📁 Projects
+## 📁 Projects:
 
 - <a href = "https://github.com/Neofetcher/SIEM-LAB"> Security information and event management Lab Project </a>
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
