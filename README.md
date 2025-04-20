@@ -1,7 +1,9 @@
 # Hello, I'm Devansh
 <a href="https://www.linkedin.com/in/reachmedevansh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-As a dedicated Computer Engineering student with a strong focus on cybersecurity and an interest in reverse engineering and game security, I am driven by the dynamic and evolving nature of the digital threat landscape. I am actively expanding my skill set through hands-on projects and self-guided learning, while pursuing industry-recognized certifications to deepen my technical expertise.
+As a Computer Engineering graduate with a strong focus on cybersecurity and a keen interest in reverse engineering and game security, I am driven by the ever-evolving threat landscape of the digital world. I continue to build on my technical foundation through hands-on projects, research, and the pursuit of industry-recognized certifications to further enhance my expertise.
+
+I’m open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
 I am always open to collaboration, knowledge exchange, and opportunities that foster growth in the cybersecurity field.
 
