@@ -5,7 +5,7 @@ As a Computer Engineering graduate with a strong focus on cybersecurity and a ke
 
 I’m open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
-## Objective
+## 🎯 Objective
 
 Motivated and technically proficient computer engineering graduate with a strong interest in cybersecurity. Eager to leverage my analytical skills and technical foundation to contribute to the protection of digital assets and infrastructure. Actively seeking an entry-level role in cybersecurity, with a particular interest in threat detection, penetration testing, and security operations.
 
@@ -16,7 +16,7 @@ Motivated and technically proficient computer engineering graduate with a strong
   - Tools: Wireshark, Nmap, Burp Suite, Metasploit  
   - Platforms: Linux, Windows  
 
-## Projects
+## 📁 Projects
 
 - <a href = "https://github.com/Neofetcher/SIEM-LAB"> Security information and event management Lab Project </a>
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
