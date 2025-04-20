@@ -7,7 +7,7 @@ Let's connect and explore the possibilities of collaboration and knowledge shari
 
 ## Objective
 
-My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Motivated and technically proficient computer engineering graduate with a strong interest in cybersecurity. Eager to leverage my analytical skills and technical foundation to contribute to the protection of digital assets and infrastructure. Actively seeking an entry-level role in cybersecurity, with a particular interest in threat detection, incident response, and security operations.
 
 ### Network
 <div>
