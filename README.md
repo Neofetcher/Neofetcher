@@ -9,9 +9,12 @@ I’m open to collaboration, knowledge sharing, and opportunities that support c
 
 Motivated and technically proficient computer engineering graduate with a strong interest in cybersecurity. Eager to leverage my analytical skills and technical foundation to contribute to the protection of digital assets and infrastructure. Actively seeking an entry-level role in cybersecurity, with a particular interest in threat detection, penetration testing, and security operations.
 
-## 🧰 Skills:  
+## 🧰 Certifications & Skills:  
+  - Technical: Reconnaissance, Active Directory, Network Scanning & Enumeration, Vulnerability Scanning & Exploitation, Privilege Escalation
   - Languages: Python, Bash    
-  - Platforms: Linux, Windows  
+  - Platforms: Linux, Windows
+  - Tools: Whois, NSLookup, Nmap, Gobuster, Dirbuster, OWASP Top 10, Burp Suite, Metasploitable Framework, ExploitDB, SearchSploit
+  - Certifications: Google Cybersecurity Specialization, Jr. Pentester (TryHackMe)
 
 ## 📁 Projects:
 
