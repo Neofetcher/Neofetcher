@@ -16,6 +16,7 @@ Motivated and technically proficient computer engineering graduate with a strong
 
 ## 📁 Projects:
 
+- <a href = "https://github.com/Neofetcher/Vulnerable-Machine-Exploitation-Labs"> Vulnerable Machine Exploitation Labs </a>
 - <a href = "https://github.com/Neofetcher/SIEM-LAB"> Security information and event management Lab Project </a>
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
 - <a href = "https://github.com/Neofetcher/Python-Keylogger"> Python Keylogger </a>
