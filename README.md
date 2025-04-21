@@ -3,7 +3,7 @@
 
 As a Computer Engineering graduate with a strong focus on cybersecurity and a keen interest in reverse engineering and game security, I am driven by the ever-evolving threat landscape of the digital world. I continue to build on my technical foundation through hands-on projects, research, and the pursuit of industry-recognized certifications to further enhance my expertise.
 
-I’m open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
+Open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
 ## 🎯 Objective
 
