@@ -19,7 +19,7 @@ Motivated and technically proficient computer engineering graduate with a strong
 ## 📁 Projects:
 
 - <a href = "https://github.com/Neofetcher/Vulnerable-Machine-Exploitation-Labs"> Vulnerable Machine Exploitation Labs </a>
-Exploited intentionally vulnerable machines to simulate real-world attack scenarios. Performed network enumeration and vulnerability scanning. Conducted post-exploitation steps and documented findings in structured penetration test reports. Machines exploited include: kioptrix, Academy, Blue, and others.
+Exploited intentionally vulnerable machines to simulate real-world attack scenarios. Performed network enumeration and vulnerability scanning. Conducted post-exploitation steps and documented findings in structured penetration test reports. Machines exploited include: Blue, Dev, and others.
 - <a href = "https://github.com/Neofetcher/SIEM-LAB"> Security information and event management Lab Project </a>
 Deployed honeypots to monitor and log malicious activity. Gained insights into common attack vectors and adversarial tactics.
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
