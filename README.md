@@ -14,7 +14,7 @@ Motivated and technically proficient computer engineering graduate with a strong
   - Languages: Python, Bash    
   - Platforms: Linux, Windows
   - Tools: Whois, NSLookup, Nmap, Gobuster, Dirbuster, OWASP Top 10, Burp Suite, Metasploitable Framework, ExploitDB, SearchSploit
-  - Certifications: Google Cybersecurity Specialization, Jr. Pentester (TryHackMe)
+  - Certifications: Google Cybersecurity Specialization, Jr. Pentester (TryHackMe), Pursuing CEH and COMPTIA Security+
 
 ## 📁 Projects:
 
