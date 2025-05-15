@@ -12,7 +12,6 @@ Motivated and technically proficient computer engineering graduate with a strong
   - Technical: Reconnaissance, Active Directory, Network Scanning & Enumeration, Vulnerability, Scanning & Exploitation, Privilege Escalation, OSINT
   - Languages:  Python (intermediate), Bash (beginner), Rust (beginner)    
   - Platforms: Linux, Windows
-  - Tools: Whois, NSLookup, Nmap, Gobuster, Dirbuster, OWASP Top 10, Burp Suite, Metasploitable Framework, ExploitDB, SearchSploit, Ffuf
   - Certifications: Google Cybersecurity Specialization, Jr. Pentester (TryHackMe), Pursuing CEH and COMPTIA Security+
 
 ## 📁 Projects:
