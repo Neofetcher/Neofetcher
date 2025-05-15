@@ -1,6 +1,6 @@
 # Hello
 
-Open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
+I'm an offensive security practitioner focused on red teaming, penetration testing, and adversary emulation. I specialize in simulating real-world threats to identify weaknesses and improve defensive posture.Open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
 ## Projects:
 
