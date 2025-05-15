@@ -2,12 +2,6 @@
 
 Open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
 
-## Certifications & Skills:  
-  - Technical: Reconnaissance, Active Directory, Network Scanning & Enumeration, Vulnerability, Scanning & Exploitation, Privilege Escalation, OSINT
-  - Languages:  Python (intermediate), Bash (beginner), Rust (beginner)    
-  - Platforms: Linux, Windows
-  - Certifications: Google Cybersecurity Specialization, Jr. Pentester (TryHackMe), Pursuing CEH and COMPTIA Security+
-
 ## Projects:
 
 - <a href = "https://github.com/Neofetcher/Vulnerable-Machine-Exploitation-Labs"> Vulnerable Machine Exploitation Labs </a>
