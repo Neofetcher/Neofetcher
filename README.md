@@ -10,8 +10,6 @@ Exploited intentionally vulnerable machines to simulate real-world attack scenar
 This project presents a virtualized Active Directory (AD) lab environment designed for academic study, cybersecurity training, and system administration practice. The lab simulates a Windows-based domain infrastructure, including a Domain Controller, Windows clients.
 - <a href = "https://github.com/Neofetcher/Active-Directory-Lab-Exploitation"> Active Directory Lab Exploitation </a>
 Simulated attacks on a vulnerable Active Directory environment, mimicking real-world internal penetration tests. Achieved domain admin privileges through privilege escalation and token impersonation techniques. Documented attack chains and mitigation strategies in detailed reports.  
-- <a href = "https://github.com/Neofetcher/SIEM-LAB"> Security information and event management Lab Project </a>
-Deployed honeypots to monitor and log malicious activity. Gained insights into common attack vectors and adversarial tactics.
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
 Simulated real-world security events using Nmap on Kali Linux. Queried and analyzed events using Elastic SIEM for threat detection.
 - <a href = "https://github.com/Neofetcher/Python-Keylogger"> Python Keylogger </a>
