@@ -1,6 +1,8 @@
 # Hello
 
-I'm an offensive security practitioner focused on red teaming, penetration testing, and adversary emulation. I specialize in simulating real-world threats to identify weaknesses and improve defensive posture. Open to collaboration, knowledge sharing, and opportunities that support continued growth within the cybersecurity domain.
+Cybersecurity graduate with hands-on experience in penetration testing, Active Directory exploitation, and SIEM-based threat detection. Skilled in Kali Linux, Metasploit, Burp Suite, Nmap, Elastic SIEM, and Microsoft Defender, with a strong foundation in vulnerability assessment, privilege escalation, and security monitoring.
+
+Experienced in Windows and Linux environments, Python-based security scripting, and building self-hosted security labs to simulate real-world attacks and defenses. Actively pursuing certifications and seeking entry-level opportunities in SOC, penetration testing, or cybersecurity analyst roles.
 
 ## Projects:
 
