@@ -1,6 +1,6 @@
 # Hello
 
-Cybersecurity graduate with hands-on experience in penetration testing, Active Directory exploitation, and SIEM-based threat detection. Skilled in Kali Linux, Metasploit, Burp Suite, Nmap, Elastic SIEM, and Microsoft Defender, with a strong foundation in vulnerability assessment, privilege escalation, and security monitoring.
+Cybersecurity graduate with hands-on experience in penetration testing, Active Directory exploitation, and SIEM-based threat detection. Skilled in Linux, Metasploit, Burp Suite, Nmap, Elastic SIEM, and Microsoft Defender, with a strong foundation in vulnerability assessment, privilege escalation, and security monitoring.
 
 Experienced in Windows and Linux environments, Python-based security scripting, and building self-hosted security labs to simulate real-world attacks and defenses. Actively pursuing certifications and seeking entry-level opportunities in SOC, penetration testing, or cybersecurity analyst roles.
 
