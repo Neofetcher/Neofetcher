@@ -12,7 +12,7 @@ Exploited intentionally vulnerable machines to simulate real-world attack scenar
 This project presents a virtualized Active Directory (AD) lab environment designed for academic study, cybersecurity training, and system administration practice. The lab simulates a Windows-based domain infrastructure, including a Domain Controller, Windows clients.
 - <a href = "https://github.com/Neofetcher/Active-Directory-Lab-Exploitation"> Active Directory Lab Exploitation </a>
 Simulated attacks on a vulnerable Active Directory environment, mimicking real-world internal penetration tests. Achieved domain admin privileges through privilege escalation and token impersonation techniques. Documented attack chains and mitigation strategies in detailed reports.
-- <a href = "https://github.com/Neofetcher/AWS-VPC-Creation-and-Hardening"> AWS-VPC-Creation-and-Hardening </a>
+- <a href = "https://github.com/Neofetcher/AWS-VPC-Creation-and-Hardening"> AWS VPC Creation and Hardening </a>
 This project focuses on designing, deploying, and securing an AWS Virtual Private Cloud following security best practices. The goal is to create a segmented network, limit exposure to the internet, and apply defense in depth controls at the network level.
 - <a href = "https://github.com/Neofetcher/Honeypot-Project"> Cloud Honeypot Lab Project </a>
 Simulated real-world security events using Nmap on Kali Linux. Queried and analyzed events using Elastic SIEM for threat detection.
