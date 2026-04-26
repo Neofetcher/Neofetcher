@@ -1,8 +1,6 @@
 # Hello
 
-Cybersecurity graduate with hands-on experience in penetration testing, Active Directory exploitation, and SIEM-based threat detection. Skilled in Linux, Metasploit, Burp Suite, Nmap, Elastic SIEM, and Microsoft Defender, with a strong foundation in vulnerability assessment, privilege escalation, and security monitoring.
-
-Experienced in Windows and Linux environments, Python-based security scripting, and building self-hosted security labs to simulate real-world attacks and defenses. Actively pursuing certifications and seeking entry-level opportunities in SOC, penetration testing, or cybersecurity analyst roles.
+Cybersecurity and cloud-focused graduate with hands-on experience in penetration testing, Active Directory exploitation, SIEM-based threat detection, and AWS cloud security. Strong foundation in cloud architecture design, infrastructure provisioning, IAM least-privilege enforcement, and network segmentation, with exposure to DevSecOps practices including secure CI/CD, automation, and infrastructure hardening. Experienced across Windows and Linux environments, with practical exposure to secure system design, monitoring, and real-world attack simulation labs.
 
 ## Projects:
 
