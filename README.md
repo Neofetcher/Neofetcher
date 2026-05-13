@@ -2,9 +2,6 @@
 
 Cybersecurity & cloud-focused computer engineer with hands-on experience in penetration testing, Active Directory exploitation, SOC/SIEM, and AWS cloud security.
 
-- **Focus:** Pentesting · SOC & detection engineering · AWS VPC & IAM · Infrastructure & networking  
-- **Stack:** Windows & Linux · Python · Bash · AWS (VPC, EC2, IAM) · Virtualization
-
 🔗 **Portfolio:** https://Neofetcher.github.io  
 🔗 **LinkedIn:** https://www.linkedin.com/in/reachmedevansh  
 🔗 **TryHackMe:** https://tryhackme.com/p/N30fetcher  
